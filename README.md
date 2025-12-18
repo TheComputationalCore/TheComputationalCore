@@ -55,19 +55,6 @@ I develop **physics-informed and explainable machine learning systems** grounded
 </p>
 
 ---
-## 📊 Research & Engineering Impact (GitHub Metrics)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheComputationalCore&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheComputationalCore&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheComputationalCore&theme=radical&hide_border=true" alt="Contribution Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheComputationalCore&theme=radical&no-frame=true&margin-w=15&row=1" alt="Trophies" />
-</p>
-
----
 ## 🚀 Selected Research & Engineering Projects
 ### 🧠 Material Hardness & Oxidation Prediction (Published Research Translation)
 Physics-informed ML platform predicting alloy properties with SHAP explainability; derived from experimental welding studies (IOP 2020).  
@@ -90,8 +77,7 @@ React • Spring Boot • PostgreSQL • JWT
 🔗 [Code](https://github.com/TheComputationalCore/bus-booking-system) | 🌐 [Live Frontend](https://bus-booking-system-frontend.onrender.com)
 
 ---
-## 📫 Collaboration & Opportunities
-Seeking MS/PhD opportunities or research collaborations in applied ML for robotics, materials, and intelligent systems. Open to discussions on physics-informed models, explainable AI, or production ML.
+
 
 <p align="center">
   <i>Advancing engineering intelligence through rigorous, deployable research.</i>
