@@ -65,7 +65,7 @@ I am an applied machine learning engineer with a strong foundation in mechanical
 
 ---
 
-### 🏢 Employee Management System (Enterprise-Grade)
+### 🏢 Employee Management System 
 **Modular HRMS platform** supporting the full employee lifecycle.
 
 - Spring Boot + Thymeleaf  
