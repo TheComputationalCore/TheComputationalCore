@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/6b09d78767e07fb26a24f45ebb087affde72ed613eabc6644b21856065a413c3/68747470733a2f2f63646e2e746861746169636f6c6c656374696f6e2e636f6d2f73637265656e73686f74732f73637265656e73686f742d65696c6c612e77656270" alt="Banner">
-</p>
-
+  
 <h1 align="center">👨‍💻 Dinesh Chandra</h1>
 <h3 align="center"><strong>Applied Machine Learning Engineer | Engineering Systems | Robotics & Intelligent Manufacturing</strong></h3>
 
