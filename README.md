@@ -112,7 +112,9 @@ I am an applied machine learning engineer with a strong foundation in mechanical
 ## 📄 Publications
 - **Experimental Studies of Stellite-6 Hardfaced Layer on Ferrous Materials by TIG Surfacing Process**  
   *IOP Conference Series: Materials Science & Engineering, Vol. 998 (2020)*  
-  DOI: 10.1088/1757-899X/998/1/012061  
+  DOI: 10.1088/1757-899X/998/1/012061
+
+  👉 **https://iopscience.iop.org/article/10.1088/1757-899X/998/1/012061**
 
 ---
 
