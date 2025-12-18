@@ -24,47 +24,6 @@ I am an applied machine learning engineer with a strong foundation in mechanical
 
 ---
 
-## 🚀 Featured Projects (Flagship Work)
-
-🔬 Scientific Foundation & Research Lineage
-
-This work is directly grounded in peer-reviewed experimental research, ensuring strong scientific validity and real-world relevance.
-
-Research Paper:
-👉 https://iopscience.iop.org/article/10.1088/1757-899X/998/1/012061
-
-Title:
-Experimental Studies of Stellite-6 Hardfaced Layer on Ferrous Materials by TIG Surfacing Process
-
-Published In:
-IOP Conference Series: Materials Science & Engineering
-Volume 998 (2020), Article 012061
-
-DOI:
-10.1088/1757-899X/998/1/012061
-
-My Contribution:
-
-Designed and conducted experimental studies on TIG hardfacing
-
-Performed metallurgical and mechanical characterization
-
-Analyzed hardness, oxidation behavior, and surface durability
-
-Presented findings as an oral presentation at ICAMS 2020 (International Conference)
-
-Relevance to This Repository:
-
-Experimental insights → feature engineering
-
-Physical metallurgy → ML target formulation
-
-Lab results → data-driven predictive modeling
-
-Forms the scientific backbone of the ML system implemented here
-
-This repository demonstrates how classical experimental engineering research can be extended using applied machine learning to build predictive, explainable, and deployable systems.
-
 ### 🧠 Material Hardness & Oxidation Prediction
 **ML-driven materials intelligence platform** predicting mechanical hardness and oxidation behavior from experimental welding data.
 
@@ -151,7 +110,10 @@ This repository demonstrates how classical experimental engineering research can
 ## 📄 Publications
 - **Experimental Studies of Stellite-6 Hardfaced Layer on Ferrous Materials by TIG Surfacing Process**  
   *IOP Conference Series: Materials Science & Engineering, Vol. 998 (2020)*  
-  DOI: 10.1088/1757-899X/998/1/012061  
+  DOI: 10.1088/1757-899X/998/1/012061
+
+  Research Paper:
+👉 https://iopscience.iop.org/article/10.1088/1757-899X/998/1/012061
 
 ---
 
