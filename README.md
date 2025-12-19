@@ -27,7 +27,7 @@ I am an applied machine learning engineer with a strong foundation in mechanical
 
 ## 📄 Peer-Reviewed Research Publication
 **Title:** Experimental Studies of Stellite-6 Hardfaced Layer on Ferrous Materials by TIG Surfacing Process  
-**Authors:** D. Chandra et al.  
+**Authors:** C Dinesh Chandra et al.  
 **Journal:** IOP Conference Series: Materials Science and Engineering  
 **Volume:** 998 (2020), 012061  
 **DOI:** 10.1088/1757-899X/998/1/012061  
