@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/TheComputationalCore/TheComputationalCore/main/assets/banner.png" alt="Applied ML | Robotics | Intelligent Manufacturing Banner" />
+</p>
+<p align="center">
   
 <h1 align="center">👨‍💻 Dinesh Chandra</h1>
 <h3 align="center"><strong>Applied Machine Learning Engineer | Engineering Systems | Robotics & Intelligent Manufacturing</strong></h3>
