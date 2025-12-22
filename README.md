@@ -77,9 +77,6 @@ This experimental study on hardfacing alloys directly inspired my applied ML pla
 
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=TheComputationalCore&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=TheComputationalCore&theme=radical&no-frame=true&row=1&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
 
 ---
 
