@@ -64,6 +64,21 @@ This experimental study on hardfacing alloys directly inspired my applied ML pla
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheComputationalCore&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Dinesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheComputationalCore&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheComputationalCore&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheComputationalCore&theme=radical&no-frame=true&row=1&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
+
+---
+
 ## 🚀 Flagship Projects
 ### 🧠 Material Hardness & Oxidation Prediction
 **Research-grade ML platform** predicting mechanical and oxidation properties of hardfaced alloys (grounded in my published experimental work).  
