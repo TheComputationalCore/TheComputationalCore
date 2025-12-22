@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheComputationalCore/TheComputationalCore/main/assets/banner.png" alt="Applied ML | Robotics | Intelligent Manufacturing Banner" />
+  <img src="https://github.com/TheComputationalCore/TheComputationalCore/blob/main/assests/banner.png" alt="Applied ML | Robotics | Intelligent Manufacturing Banner" />
 </p>
 <p align="center">
   
