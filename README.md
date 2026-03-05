@@ -85,7 +85,7 @@ This experimental study on hardfacing alloys directly inspired my applied ML pla
 
 ### 🚌 sarathi
 **Real-time distributed bus booking platform** modeling civilizational mobility networks with Spring Boot, React, Redis, and WebSockets. 
-- React + Spring Boot 3 + PostgreSQL + redis + distributed-systems + websocket + system-design + real-time-app + heritage-tech
+- React + Spring Boot 3 + PostgreSQL + redis + distributed-systems + websocket + system-design + real-time-app + heritage-tech              
 🔗 [Repository](https://github.com/TheComputationalCore/sarathi) | 🌐 [Live Frontend](https://sarathi-frontend-3zg8.onrender.com)
 
 ---
