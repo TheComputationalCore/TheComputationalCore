@@ -83,10 +83,10 @@ This experimental study on hardfacing alloys directly inspired my applied ML pla
 - Spring Boot 3 + Thymeleaf + Docker + CI/CD + RBAC  
 🔗 [Repository](https://github.com/TheComputationalCore/employee-management) | 🌐 [Live Demo](https://employee-management-qhfh.onrender.com)
 
-### 🚌 Bus Booking System
-**Modern full-stack ticketing platform** with real-time seat selection and secure bookings.  
-- React + Spring Boot 3 + PostgreSQL + JWT Auth  
-🔗 [Repository](https://github.com/TheComputationalCore/bus-booking-system) | 🌐 [Live Frontend](https://bus-booking-system-frontend.onrender.com)
+### 🚌 sarathi
+**Real-time distributed bus booking platform** modeling civilizational mobility networks with Spring Boot, React, Redis, and WebSockets. 
+- React + Spring Boot 3 + PostgreSQL + redis + distributed-systems + websocket + system-design + real-time-app + heritage-tech
+🔗 [Repository](https://github.com/TheComputationalCore/sarathi) | 🌐 [Live Frontend](https://sarathi-frontend-3zg8.onrender.com)
 
 ---
 
