@@ -70,7 +70,7 @@ This experimental study on hardfacing alloys directly inspired my applied ML pla
 
 ## 🚀 Flagship Projects
 ### 🧠 Material Hardness & Oxidation Prediction
-**Research-grade ML platform** predicting mechanical and oxidation properties of hardfaced alloys (grounded in my published experimental work).  
+**Research-grade ML project** predicting mechanical and oxidation properties of hardfaced alloys (grounded in my published experimental work).  
 - Random Forest + Linear Regression | SHAP Explainability | Flask Web App  
 🔗 [Repository](https://github.com/TheComputationalCore/Material-Hardness-Oxidation-Prediction) | 🌐 [Live Demo](https://material-hardness-oxidation-prediction.onrender.com)
 
